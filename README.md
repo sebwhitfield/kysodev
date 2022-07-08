@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kysodev
+- 👋 Hi, I’m Seb.
 - 👀 I’m interested in programming, data analysis and gaming! 🤩
-- 🌱 Currently learning Swift with a dabble of CPP and possibly a bit of python here and there 
+- 🌱 Always learning Swift and anything else that comes my way.
+
 - 📫 seb@kysodev.com
 
 <!---
