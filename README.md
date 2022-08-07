@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Seb.
-- 👀 I’m interested in programming, data analysis and gaming! 🤩
-- 🌱 Always learning Swift and anything else that comes my way.
-
 - 📫 seb@kysodev.com
 
 <!---
